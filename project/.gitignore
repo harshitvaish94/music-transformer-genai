@@ -1,0 +1,7 @@
+*.keras
+*.h5
+*.pkl
+data/
+*.mid
+__pycache__/
+.vscode/
