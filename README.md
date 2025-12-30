@@ -26,10 +26,11 @@ Generating coherent and creative music requires understanding long-range pattern
 ---
 
 ## Project Structure
+
 project/
-├── MusicGen.ipynb     # Data preprocessing, training, and experiments
-├── inference.py       # Music generation logic
-├── notes.py           # Helper / experimentation code
+├── MusicGen.ipynb # Data preprocessing, training, and experiments
+├── inference.py # Music generation logic
+├── notes.py # Helper / experimentation code
 ├── .gitignore
 └── README.md
 
